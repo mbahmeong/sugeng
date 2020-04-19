@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sugeng</string>
+    <string name="makanan_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="nama_developer">x</string>
+    <string name="quotes">\"Kreatifitas tanpa batas. Pengetahuan? terbatas\"</string>
+    <string name="developer_contacts">Developer Contacts</string>
+    <string name="follow_me_on">Follow Me On</string>
+    <string name="email">x@gmail.com</string>
+    <string name="igaccount">x</string>
+</resources>
